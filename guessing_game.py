@@ -1,4 +1,4 @@
-class GuessingGame():
+class GuessingGame:
     def __init__(self, answer):
         self.answer = answer
         self.last_guess = None
